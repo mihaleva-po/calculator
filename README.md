@@ -1,21 +1,21 @@
 # Калькулятор
 
-<span style="font-size:20px;">Калькулятор выполняет простейшие математические функции, при отображении чисел на дисплее используется масштабирование
-</span>
+<span style="font-size:20px;">The calculator performs the simplest mathematical functions and uses scaling when displaying numbers on the display.
+</span> You can view the project at the following link: [calc](https://calculator-three-pink.vercel.app/).
 
 ![image](src/images/calc.png)
 
-## Стек технологий
+## Technology Stack
 <li>React</li>
 <li>UseState</li>
 <li>UseEffect</li>
 
-## 🚀 Для работы с приложением выполните следующие действия:
+## 🚀 Follow the steps below to work with the application:
 
-Установите менеджер пакетов
+Install the package manager
 
 ### `npm install`
 
-Запустите приложение
+Start the application
 
 ### `npm start`
